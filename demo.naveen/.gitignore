@@ -1,0 +1,10 @@
+# Maven / Spring Boot
+target/
+*.jar
+*.war
+*.log
+
+# IDE / OS
+*.iml
+*.idea/
+*.DS_Store
